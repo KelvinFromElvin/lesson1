@@ -17,7 +17,6 @@ public class Main{
         // label bounderies
         label.setBounds(20,20,100,50);
 
-
         // adding button in JFrame
         frame.add(button);
 
